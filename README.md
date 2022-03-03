@@ -1,1 +1,1 @@
-# Cross-origin-resource-sharing
+# Cross-origin resource sharing (CORS)
